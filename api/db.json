@@ -1,0 +1,29 @@
+{
+  "streams": [
+    {
+      "title": "stream",
+      "description": "this is the best stream",
+      "id": 1
+    },
+    {
+      "title": "another stream",
+      "description": "this stream is okay",
+      "id": 2
+    },
+    {
+      "title": "jlsngjlas",
+      "description": "askgsla",
+      "id": 3
+    },
+    {
+      "title": "nas",
+      "description": "nas",
+      "id": 4
+    },
+    {
+      "title": "stream 52222",
+      "description": "this is wam lkfa",
+      "id": 5
+    }
+  ]
+}
