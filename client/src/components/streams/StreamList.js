@@ -56,7 +56,7 @@ class StreamList extends React.Component {
 
   render() {
     return (
-      <div>
+      <div style={{ marginTop: '75px', marginLeft: '200px', marginRight: '200px' }}>
         <h2>streams</h2>
         <div className="ui celled list">{this.renderList()}</div>
         {this.renderCreate()}

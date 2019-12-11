@@ -1,35 +1,16 @@
 {
   "streams": [
     {
-      "title": "stream",
-      "description": "this is the best stream",
+      "title": "Test",
+      "description": "First stream for testing",
+      "userId": "111957333098629204211",
       "id": 1
     },
     {
-      "title": "another stream",
-      "description": "this stream is okay",
-      "id": 2
-    },
-    {
-      "title": "jlsngjlas",
-      "description": "askgsla",
-      "id": 3
-    },
-    {
-      "title": "nas",
-      "description": "nas",
-      "id": 4
-    },
-    {
-      "title": "stream 52222",
-      "description": "this is wam lkfa",
-      "id": 5
-    },
-    {
-      "title": "thei",
-      "description": "theeee",
+      "title": "Test_2",
+      "description": "Second testing stream.",
       "userId": "111957333098629204211",
-      "id": 6
+      "id": 2
     }
   ]
 }
